@@ -1,0 +1,3 @@
+
+DELETE http://localhost:3000/cursos/5f070c8fca6a731d1408b961
+content-type: application/json

@@ -1,0 +1,12 @@
+PUT  http://localhost:3000/cursos
+Content-Type: application/json
+
+{
+    "nome": "Sistemas para internet",
+    "cargaHoraria": 80,
+    "valor": 110,
+    "dataInicio": "02022000",
+    "dataTermino": "02022020",
+    "instrutor": ["igor"],
+    "_id": "5f04652e1ba8a51f88212253"
+}

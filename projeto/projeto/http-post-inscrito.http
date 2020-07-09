@@ -1,0 +1,9 @@
+POST  http://localhost:3000/inscritos
+Content-Type: application/json
+
+{
+    "nome": "Teste",
+    "email": "teste@oi.com",
+    "dataNascimento": "1196-06-06",
+    "cursos": "5f06fc1499d73941382f8355" 
+}

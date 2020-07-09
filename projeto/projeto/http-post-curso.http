@@ -1,0 +1,11 @@
+POST  http://localhost:3000/cursos
+Content-Type: application/json
+
+{
+    "nome": "Teste",
+    "cargaHoraria": 80,
+    "valor": 100,
+    "dataInicio": "2020-03-28",
+    "dataTermino": "2020-06-20",
+    "instrutores": ["5f070b6743becf2f4cbe0f01","5f070b7743becf2f4cbe0f02"]
+}

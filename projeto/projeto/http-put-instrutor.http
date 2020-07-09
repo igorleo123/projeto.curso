@@ -1,0 +1,8 @@
+PUT  http://localhost:3000/instrutores
+Content-Type: application/json
+
+{
+    "nome": "helloe",
+    "email": "igor.5486@hotmail.com",
+    "_id": "5eeb840b4ee564df005c4736"
+}
