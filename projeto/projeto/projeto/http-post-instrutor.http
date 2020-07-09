@@ -1,0 +1,7 @@
+POST  http://localhost:3000/instrutor
+Content-Type: application/json
+
+{
+    "nome": "igor",
+    "email": "igor.5486@hotmail.com"
+}

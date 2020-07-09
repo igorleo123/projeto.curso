@@ -1,0 +1,10 @@
+PUT  http://localhost:3000/inscritos
+Content-Type: application/json
+
+{
+    "nome": "NAO",
+    "email": "SES@oi.com",
+    "dataNascimento": "09/09/1996",
+    "curso": "SISTEMAS",
+    "_id": "5f045de51ba8a51f88212227"
+}

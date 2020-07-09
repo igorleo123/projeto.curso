@@ -1,0 +1,3 @@
+
+GET http://localhost:3000/cursos/5f0462121ba8a51f88212239
+content-type: application/json

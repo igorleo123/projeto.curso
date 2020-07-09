@@ -1,0 +1,3 @@
+
+DELETE http://localhost:3000/inscritos/5f071bf5f249031e9c73187c
+content-type: application/json

@@ -1,0 +1,3 @@
+
+DELETE http://localhost:3000/instrutores/5f071bd2f249031e9c73187b
+content-type: application/json
